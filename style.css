@@ -1,0 +1,26 @@
+.box{
+    width: 40vw;
+    height: 20vh;
+    border: 2px solid white;
+}
+.margintop{
+ margin-top: 12vh;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+.background1{
+    
+    height: 100vh;
+    background-image: url("bg-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.background2{
+    height: 100vh;
+    background-image: url("bg-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
